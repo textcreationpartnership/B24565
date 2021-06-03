@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial account of the late famous siege, and most noble defence of the city of Mons with the reasons of its surrender. Being a summary relation, of all the particular sallies, assaults, attacks, skirmishes, rencounters, and other actions, both within the city, and in the camp of the French King: with the number of the slain and wounded, and the great officers in the French camp. As it was delivered in sundry letters, from credible persons there, to persons of eminent quality in London. Licensed, April the 6th, 1691. J. Fraiser.</title>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24565</idno><idno type="EEBO-CITATION">99829194</idno>
+  <idno type="VID">207108</idno>
+  <idno type="EEBO-PROQUEST">2264214034</idno>
+  
+            <idno type="STC">Wing I70B</idno>
+            <idno type="PROQUEST">99829194</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829194e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24565)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207108)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1990:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial account of the late famous siege, and most noble defence of the city of Mons with the reasons of its surrender. Being a summary relation, of all the particular sallies, assaults, attacks, skirmishes, rencounters, and other actions, both within the city, and in the camp of the French King: with the number of the slain and wounded, and the great officers in the French camp. As it was delivered in sundry letters, from credible persons there, to persons of eminent quality in London. Licensed, April the 6th, 1691. J. Fraiser.</title>
+               </titleStmt>
+               <extent>13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Waterton, next door to the Bluc-Anchor-Inn in Duck-Lane, near West-Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half title reading: An impartial relation of the siege and surrender of Mons.</note>
+                  <note>Following imprint on title page: Price 3d.</note>
+                  <note>Caption title on p. 5 reads: An impartial account of the late famous siege, and most noble defence of Mons, &amp;c.</note>
+                  <note>Advertisement at foot of p. 13.</note>
+                  <note>Identified as Wing (2nd ed.) I70B on UMI microfilm "Early English books, 1641-1700" reel 1990.</note>
+                  <note>Reproduction of the original in the Christ Church Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Mons (Belgium) --  History --  Siege, 1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:207108:1"/>
+            <pb facs="tcp:207108:1"/>
+            <p>AN <hi>Impartial Relation</hi> OF THE Siege and Surrender OF MONS.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:207108:2"/>
+            <pb facs="tcp:207108:2"/>
+            <p>An Impartial ACCOUNT OF THE Late Famous Siege, <hi>And Most Noble Defence</hi> Of the CITY of MONS, With the REASONS of its SURRENDER.</p>
+            <p>Being a Summary Relation, Of all the Particular Sallies, Assaults, Attacks, Skirmishes, Rencounters, and other Actions, both within the City, and in the Camp of the FRENCH KING: With the Number of the Slain and Wounded, and the Great Officers in the <hi>French</hi> Camp.</p>
+            <p>As it was Delivered in Sundry Letters, from Credible Persons There, to Persons of Eminent Quality in <hi>London.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>April</hi> the 6th, 1691.</date>
+                           </dateline>
+                           <signed>J. Fraiser.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Waterton,</hi> next Door to the <hi>Blue-Anchor</hi>- Inn in <hi>Duck-Lane,</hi> near <hi>West-Smithfield.</hi> 1691. Price 3d.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:207108:3"/>
+            <pb n="5" facs="tcp:207108:3"/>
+            <head>An Impartial Account of the Late Famous Siege, and most Noble Defence of <hi>MONS,</hi> &amp;c.</head>
+            <p>
+               <hi>MONS,</hi> as it hath been the Miracle of the Age, and Wonder of its Enemies (for unparalled Courage and Resolution) ought now to be the Work of each Ingenious Writer, and Discourse of every Martial Man. Fame has already spoke sufficient in the praise of that undaunted City, whose Actions I now mean to particularize.</p>
+            <p>But before I enter upon the particu<g ref="char:EOLhyphen"/>lars of the Siege, I shall give the <hi>Reader</hi> an Account of the Province of <hi>Hanault,</hi> and scituation of <hi>Mons. Hanault</hi> is so named of the River <hi>Hayne,</hi> which runs through it. It is the chief of the <hi>Wal<g ref="char:EOLhyphen"/>loon</hi> Provinces, it bordereth on the <hi>North</hi> with <hi>Brabant</hi> and <hi>Flanders,</hi> be<g ref="char:EOLhyphen"/>longing to the King of <hi>Spain,</hi> on the <hi>South</hi> with <hi>Champain</hi> and <hi>Piccardy,</hi> two Provinces belonging to the <hi>French,</hi> on the <hi>East</hi> with the Province of <hi>Namur,</hi> and on the <hi>West</hi> with the <hi>Sheld,</hi> and part of <hi>Flanders Gallican.</hi> It is twenty Leagues long, and sixteen broad; the Air is wholsome, and the Soil good, by reason that the Country is watered with many Rivers, as the <hi>Scheld,</hi> the <hi>Sambre,</hi> the <hi>Tender,</hi> and many other small Rivulets: There are also in it many Lakes, Marshes, Ponds, Pools, Fountains, goodly Woods and pleasant Forests. It aboundeth with fragrant and fair Pastures and Meadows for all kind of Cattle, with good Fruits and profitable Trees, and is replenished with great plenty of good Corn. In some part of it are <hi>Iron</hi>-Mines, <hi>Lead,</hi> and Quarries of <hi>Stone,</hi> for all kind of Buil<g ref="char:EOLhyphen"/>dings, with great Store of <hi>White-lime</hi> and <hi>Coal.</hi>
+            </p>
+            <p>In this Country are Twenty Four Walled Towns; namely, <hi>Mons, Valen<g ref="char:EOLhyphen"/>ciennes, Bouchain, Quesnoy, Conat, Lan<g ref="char:EOLhyphen"/>dressy, Amesnes, Chimay, Mariemburg, Segny, Brain le Compte, Eughien, Halle, Lesme, Cheure, Ath, St. Guisline,</hi> and <hi>Leaze.</hi> There are also 950 Villages, with many Castles and Signiories. Many of the Villages are great and fair, and have Titles of Honour annex<g ref="char:EOLhyphen"/>ed to them; as, <hi>Pequicourt, Fontayn, Laling, Montigny, Antonig, Barlamon, Barbauson, Aimeries,</hi> and many others.</p>
+            <p>The City of <hi>MONS,</hi> or <hi>Berghen,</hi> receives its Name from its Scituation, which latter, in their Language, signi<g ref="char:EOLhyphen"/>fies a Mountain or Hill; but the rise of the Earth there is so gentle, as it can<g ref="char:EOLhyphen"/>not be said to be Mountainous.</p>
+            <p>The City is strong, as well by natu<g ref="char:EOLhyphen"/>ral Scituation, as the mutual Industry
+<pb n="6" facs="tcp:207108:4"/>of Fortifications. It is cut through on the lower side by a little Rivulet called <hi>Trulla,</hi> which as soon as it goes out of it, falls into another somewhat bigger, called <hi>Hayne,</hi> which crossing through the Province, before it be gotten quite out, falls into the <hi>Scheld;</hi> and on this side is a <hi>Moras,</hi> the Earth here being very Spungy: It's Fortified likewise round about with strong and excellent Walls, Turrets, and Gates; to which are joyned many Regular Works, ac<g ref="char:EOLhyphen"/>cording to the Modern way, as Horn<g ref="char:EOLhyphen"/>works, Half-Moons, Counterscarps, Bastions, Redoubts, <hi>&amp;c.</hi> there are like<g ref="char:EOLhyphen"/>wise three large deep Ditches or Moats, with a strong Castle or Cittadel, very good Ramparts, and a River running by the Fortifications.</p>
+            <p>The Buildings of the City, both pri<g ref="char:EOLhyphen"/>vate and publick, were very fair and beautiful; here is the noble Nunnery of St. <hi>Valdrude;</hi> their Churches are Built after the Ancient manner of Ar<g ref="char:EOLhyphen"/>chitecture, with sumptuous Arches, and goodly Pillars of Marble and Por<g ref="char:EOLhyphen"/>phyry; the <hi>Stadt Heuse</hi> or Town-Hall is of excellent Workmanship. This City was surprised by the <hi>French</hi> Hu<g ref="char:EOLhyphen"/>gonets in the Year 1572. who got in great quantities of Arms in Fatts, under pretence of Merchandize; and having seiz'd on the Gates, they let in the Ar<g ref="char:EOLhyphen"/>my of Count <hi>Lodowick</hi> of <hi>Nassau,</hi> Bro<g ref="char:EOLhyphen"/>ther to a <hi>William</hi> Prince of <hi>Orange,</hi> but it was soon after retaken for the King of <hi>Spain,</hi> by the Duke of <hi>Alva.</hi> The Prince <hi>de Bergh,</hi> who was the late Go<g ref="char:EOLhyphen"/>vernor, has his Title from the Place, and most, or all his Estate lies in the Province, he is related to the House of <hi>Nassau.</hi>
+            </p>
+            <div n="1" type="letter">
+               <head>The First Letter.</head>
+               <p>THe <hi>French</hi> King having had a long<g ref="char:EOLhyphen"/>ing desire to bring this City to his Subjection, resolv'd, by an early Cam<g ref="char:EOLhyphen"/>paign, on the attempting of it this Spring, pursuant to which Resolutions, he caus'd to be laid up this last Winter in <hi>Valenciennes, Cambray,</hi> and other Frontier Places, vast and almost Incre<g ref="char:EOLhyphen"/>dible quantities of Hay, Oats, and o<g ref="char:EOLhyphen"/>ther Forrage for a numerous Army of Horse: And having given Orders to his Generals to draw his Troops from their several Quarters, as well on the side of the <hi>Rhine,</hi> as in <hi>Flanders,</hi> send<g ref="char:EOLhyphen"/>ing the very Troops of his Houshold, Grand Musqueteers, <hi>Gens d' Arms,</hi> and Light Horse, <hi>&amp;c.</hi> On the 14 of <hi>March,</hi> New-Stile, the <hi>French</hi> Army, Com<g ref="char:EOLhyphen"/>manded by the Duke of <hi>Luxenburgh,</hi> and the Marquis <hi>de Boufflers,</hi> &amp;c. directed their March towards <hi>Mons.</hi> On the 15th, their Cavalry, consisting of 42 Squadrons, began to Invest it in a formal manner. The 16th and 17th was spent chiefly in the Marching up of the Foot, and the Regular placing
+<pb n="7" facs="tcp:207108:4"/>them in their several Posts. On the 18th the Marquis <hi>de Boufflers</hi> sent a Summons to the Prince <hi>de Bergue,</hi> to Surrender the Town on Honourable Conditions, telling him, <hi>The King, the</hi> Dauphine, <hi>and all the flower of</hi> France <hi>would be there to oblige him to it:</hi> But the Prince rejected his Proposals, tel<g ref="char:EOLhyphen"/>ling him, <hi>That he was glad to hear that so great a King would be there in Per<g ref="char:EOLhyphen"/>son, to be witness of the Gallant and Brave Defence he was resolved to make;</hi> at the same time, as well Burghers as Regular Troops, with an unanimous Voice and undaunted Resolutions, resolved to de<g ref="char:EOLhyphen"/>fend it to the utmost of their Lives and Fortunes; which Answers, not suiting with the <hi>French</hi> desire, nor the hopes they had of an early Surrender, made them prepare for Action. This Even<g ref="char:EOLhyphen"/>ing the Garrison made a Sally on the Enemy, with 1800 young Men of the Town on Foot, and Four Squadrons of Horse and Dragoons, Commanded by Colonel <hi>Harcourt;</hi> and in this Acti<g ref="char:EOLhyphen"/>on they cut off 500 of the <hi>French.</hi> The 19th the <hi>French</hi> began to work on their Line of Circumvallation, hav<g ref="char:EOLhyphen"/>ing forced in near 20000 Boors or Country People that Inhabit in the Neighbourhood of <hi>Mons,</hi> imploying them as well in working on their Lines, as diging drains for the Marshes, which render'd the Town inaccessible on the side towards <hi>France;</hi> and for the more effectual draining of the <hi>Moras,</hi> they brought along with them new Invented Machines, likewise great Planks for their Cannon: They work'd very hard in their Trenches, the 19th, 20th, and 21st. On the other side, the Garri<g ref="char:EOLhyphen"/>son was not Idle: On the 20th, the In<g ref="char:EOLhyphen"/>habitants made a great Fire to destroy the Blinds of the Enemy: And on <hi>Sun<g ref="char:EOLhyphen"/>day</hi> the 21st, they made a great Sally in order to demolish a Fortified Mill near the Counterscarp; in which Acti<g ref="char:EOLhyphen"/>on 200 <hi>French</hi> were Killed and Drown<g ref="char:EOLhyphen"/>ed. On the 22d, the <hi>French</hi> King came into the Camp in Person, being accompanied with the <hi>Dauphin,</hi> the Duke <hi>de Charles,</hi> the Prince of <hi>Conde, &amp;c.</hi> and as the <hi>French</hi> gave out, That the King brought with him Seven Mil<g ref="char:EOLhyphen"/>lions in Gold, to distribute among such as should signalize their Valour in the Siege: It was thought that the Trenches would have been opened this day, but not being ready, the <hi>French</hi> King made very little stay in the Camp, but returned to St. <hi>Guislain,</hi> where he has his Quarters; and the <hi>Dauphin</hi> to his Quarters at <hi>Maubeuge.</hi> The <hi>French</hi> King thinking himself so sure of redu<g ref="char:EOLhyphen"/>cing the Place immediately, that while he was in the Camp, he gave the Ge<g ref="char:EOLhyphen"/>vernment of it to the Sieur <hi>de Ruben<g ref="char:EOLhyphen"/>ton,</hi> a Colonel of his Guards.</p>
+            </div>
+            <div n="2" type="letter">
+               <pb n="8" facs="tcp:207108:5"/>
+               <head>The Second Letter.</head>
+               <p>THe Garrison of <hi>Mons</hi> was Com<g ref="char:EOLhyphen"/>posed of 6 Regiments of <hi>Dutch,</hi> 2 of <hi>Germans,</hi> 2 of <hi>Walloons,</hi> one of <hi>Spaniards,</hi> and 800 <hi>Spanish</hi> Horse, making in all about 6500 Men; and the <hi>Burghers</hi> that bore Arms in the Town were about the same Number, most of them Disciplined and well ex<g ref="char:EOLhyphen"/>perienced Men; the Garrison, to pre<g ref="char:EOLhyphen"/>vent their being incommoded by the Enemies <hi>Bombs,</hi> immediately applyed themselves to uncover their Houses, and unpave their Street; the Regular Garrison had generally the Command of the Out-Works, and the <hi>Burghers,</hi> that of the Ramparts, and in the Town the Magazines; it being their own voluntary desire, and there was always a great Harmony and good understanding between the Burghers and the Regular Troops; there was a Treasonable practice discovered in the Town to have blown up the great Ma<g ref="char:EOLhyphen"/>gazine of Powder, which was very near taking effect, the lighted Match being found within few Inches of the Train, several of the Conspirators were seized, (proving to be <hi>French</hi> Spies;) But the Principal who was an Advo<g ref="char:EOLhyphen"/>cate, and out of whose Garden the Mine was made, made his Escape to the <hi>French</hi> Army. On the 24th. Co<g ref="char:EOLhyphen"/>lonel <hi>Branaccio,</hi> and several other con<g ref="char:EOLhyphen"/>siderable Officers got into the Town; At the same time the Prince <hi>de Beigne,</hi> the Governour, sent a Gentleman to the Marquis <hi>de Castanaga</hi> Governour of <hi>Flanders,</hi> to Inform him of the State and Condition of the Town. On the 25th. Monsieur <hi>Lovis</hi> sent a Bravado Message to the Magistrates and Burg<g ref="char:EOLhyphen"/>hers of <hi>Mons,</hi> that in consideration the <hi>King</hi> had been there in Person, for every day they held out, they should pay One hundred Crowns.</p>
+               <p>On the other Hand, A Gentleman got into the Town, with a Message from the Governour of <hi>Flanders,</hi> where<g ref="char:EOLhyphen"/>in he acquainted the Magistrates and Burghers, that they should be freed from Taxes for twenty Years if they defended the Place till Relief came; At a Councel of War in the <hi>French</hi> Camp, at which were the Famous Monsieur <hi>Vaubon,</hi> and four other Engi<g ref="char:EOLhyphen"/>neers, they assured the <hi>King</hi> that he should take the Place in 10 Days, from the time of his Troops first appearing before it; Publick Prayers were made at <hi>Paris,</hi> and in all the <hi>French</hi> Con<g ref="char:EOLhyphen"/>quests for the Success of the <hi>French</hi> Army at this Siege.</p>
+            </div>
+            <div n="3" type="letter">
+               <pb n="9" facs="tcp:207108:5"/>
+               <head>The Third Letter.</head>
+               <p>ON the 26th. about Eleven a Clock at Noon, the <hi>French</hi> opened their Trenches with three Batteries, with which they began to play on the Town; their Lines of Circumvallation were of a vast Circuit, extending at least four Leagues, their Trenches were eight Foot deep, and twenty two Foot broad. In the Afternoon of the same Day, the <hi>French</hi> began to play on the Town, from three Batteries, one near the Gate of <hi>Barlemont,</hi> the other betwixt the Gates of <hi>Havery</hi> and <hi>Nimy;</hi> they continued for three Days, successively, to Fire very furi<g ref="char:EOLhyphen"/>ously, and threw into the Place great Numbers of <hi>Bombs,</hi> many of which were of 500 <hi>l.</hi> weight; they continued to Batter the Plac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with 150 pieces of Cannon, most of which were 48 poun<g ref="char:EOLhyphen"/>ders. The <hi>French</hi> King, at his Arri<g ref="char:EOLhyphen"/>val in the Camp on the 22th. took a Review of his Army, which was then increased to 48000 Foot, and 20000 Horse, without Reckoning the Army under the Marshal <hi>de Humeirs,</hi> which lay 4 Leagues from <hi>Mons,</hi> and consist<g ref="char:EOLhyphen"/>ed of 20000 Men, being designed to observe the Confederates on the Coast of <hi>Lisle,</hi> and, if occasion were, to joyn the <hi>French</hi> Army. The <hi>French Bombs</hi> on the first and second days after the opening the Trenches, set several Hou<g ref="char:EOLhyphen"/>ses on Fire in the Town; but by the in<g ref="char:EOLhyphen"/>defatigable Industry of the Burghers, they were soon Quenched; one of their first Batteries, by reason of the loosness of the Earth, su<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in, that their Balls could hardly reach the Walls of the City; they kept playing from Morning till Night, and by Night set forward their Approaches. The Enemy on the 27th. made several Attacks on the Outworks, but particularly on a <hi>Wind-Mill Hill,</hi> and a Redoubt, which stands near the Suburbs, on the River; but were as often, with great Bravery, Repulsed by the Garrison, with the loss of 800 Men, among which were several considerable Offi<g ref="char:EOLhyphen"/>cers: But, with their fourth Attack in the Evening, they made themselves Masters of it. But the next Morning the Besieged retook it, who not being able to keep it, blew up the <hi>Mill,</hi> and retir'd into the Town: In these four Assaults the <hi>French</hi> lost 2000 Men.</p>
+               <p>On <hi>Thursday</hi> the 29th, early in the Morning, the Enemy made a great and Vigorous Attack upon an Half-Moon, which was the Outwork that cover'd the Hornwork that's next the Gate of <hi>Barlemont,</hi> (on which side chiefly they Attackt the Town,) but were receiv'd by the Besieged, with great Resolution and Bravery; and af<g ref="char:EOLhyphen"/>ter a very sharpe Dispute, the <hi>French</hi> were beaten back with a great Slaugh<g ref="char:EOLhyphen"/>ter;
+<pb n="10" facs="tcp:207108:6"/>and soon after the Besieged made three very successful Sallies; In which, and in the Attack the <hi>French</hi> just be<g ref="char:EOLhyphen"/>fore made on the Horn-work, they killed above 1200 Men, with little loss on the side of the Besieged; The <hi>French</hi> were likewise observed to carry away above 60 Wagon-Loads of their Wounded Men, to the Camp.</p>
+            </div>
+            <div n="4" type="letter">
+               <head>The Fourth Letter.</head>
+               <p>ON the 30th, the <hi>French</hi> Troops were observed to be in a continu<g ref="char:EOLhyphen"/>al Motion from one side of their Camp to the other, which plainly discover'd their uneasiness, for fear Relief should come to the Town; the next day they ordered a Camp to be Marked out, for 50000 Chosen Men, Commanded by the <hi>Dauphin;</hi> at the same time they or<g ref="char:EOLhyphen"/>dered great Numbers of the <hi>Boars</hi> to be employ'd in Cutting down Timber-Trees, to be assistant to them, in bar<g ref="char:EOLhyphen"/>ricading up the cover'd Road that leads to <hi>Brussells. April</hi> the first, the Enemies Cannon having widened the Breach in the Half-Moon, of the Horn<g ref="char:EOLhyphen"/>work that's next to the Gate of <hi>Bar<g ref="char:EOLhyphen"/>lemont,</hi> they gave order for the Storm<g ref="char:EOLhyphen"/>ing of it a third time, which they did with 7000 chosen Men, a great part of which were <hi>Switzers;</hi> and after a sharp Dispute, wherein they had kil<g ref="char:EOLhyphen"/>led a great many Men, they carried the Fort; the <hi>French</hi> had killed and wounded in these three several Assaults, (as the Deserters give account) above 3000 Men, among which were many Officers of Note; the first Attack they made was with 4000, the second with 6000, and this last with 7000. By Deserters, that lately Arriv'd in the Town, we understood that the <hi>French</hi> Army were increased to a vast Body, there being the chief Force and Flower of <hi>France,</hi> as likewise most of the <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Gentlemen and Officers, who were Retainers on the late King <hi>James;</hi> that the French were judged to be in the whole, that is, in the Trenches before the Place, in their Camp, and upon the Lines in <hi>Flanders,</hi> about 85 Bat<g ref="char:EOLhyphen"/>talions, and 200 Squadrons; that is about One hundred thousand Men, of which there was already killed, Sick and Wounded about twelve thousand: That the Marquis <hi>de Boufler</hi>'s Head-Quarters were at the Abby of St. <hi>Den<g ref="char:EOLhyphen"/>nis;</hi> and those of the Marshal <hi>de Lux<g ref="char:EOLhyphen"/>enburg,</hi> the same he had in the year 1678, when the Prince of <hi>Orange</hi> ob<g ref="char:EOLhyphen"/>liged him to quit the <hi>Bloccus</hi> of <hi>Mons:</hi> That the great Officers of the <hi>French</hi>▪ Army, were mightily surpriz'd at the Vigorous Defence made by the Be<g ref="char:EOLhyphen"/>sieged; for that when they first set down before it, they expected to have carried the Place in few days: That be<g ref="char:EOLhyphen"/>sides <hi>Bouflers</hi> and <hi>Luxenburg,</hi> there
+<pb n="11" facs="tcp:207108:6"/>was in the Camp the Marshal <hi>de Du<g ref="char:EOLhyphen"/>ras,</hi> and <hi>la Fevillade,</hi> who Command<g ref="char:EOLhyphen"/>ed as Generals; and under them Com<g ref="char:EOLhyphen"/>manded the Prince <hi>de Soubize,</hi> the Marquis <hi>de Foyeuse,</hi> the Sieur <hi>du Ru<g ref="char:EOLhyphen"/>bantel,</hi> the Duke <hi>de Vendesme,</hi> and the Sieur <hi>Rose,</hi> as Lieutenant-Generals; and the Marquis <hi>de Villars,</hi> the Mar<g ref="char:EOLhyphen"/>quis <hi>de Congis,</hi> the Duke <hi>de Bourbon,</hi> the Prince <hi>de Conti,</hi> the Duke <hi>de Maine,</hi> the Grand Prior of <hi>France,</hi> and the Count <hi>de Mont Chevrevil,</hi> as Marshals <hi>de Camp.</hi>
+               </p>
+            </div>
+            <div n="5" type="letter">
+               <head>The Fifth Letter.</head>
+               <p>HIS <hi>Britanick</hi> Majesty, having re<g ref="char:EOLhyphen"/>ceiv'd an Account at <hi>Loo,</hi> by an Express from the Marquis <hi>de Castanaga,</hi> That on the 15th past, the City of <hi>Mons</hi> was Invested by the <hi>French</hi> Cavalry, prepared for his speedy Return to the <hi>Hague;</hi> and in the mean time gave Orders for the drawing together, with all possible diligence, the Troops of <hi>Holland, Brandenburgh, Liege,</hi> &amp;c. and that they should March directly to the Neighbourhood of <hi>Brussels.</hi> On the 21st, in the Evening, the King Arriv'd at the <hi>Hague:</hi> Prince <hi>Waldeck</hi> waited on His Majesty that Night; and having receiv'd His Orders, went the next day to <hi>Brussels.</hi> On the 26th, the King left the <hi>Hague,</hi> taking his Journey to <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> by the way of <hi>Breda:</hi> The Duke of <hi>Zell</hi> followed His Majesty on the 27th, accompanied with the Baron <hi>de Chanvet,</hi> of the <hi>Lunenburg</hi> Forces. His Majesty, before His departure from the <hi>Hague,</hi> declared the Count <hi>de Solms</hi> General of the Foot; the Earl of <hi>Port<g ref="char:EOLhyphen"/>land,</hi> Monsieur <hi>Overkirk,</hi> Monsieur <hi>Op<g ref="char:EOLhyphen"/>dam,</hi> and Monsieur <hi>Zulestine,</hi> Monsieur <hi>Holsoppel,</hi> Count <hi>Tilly,</hi> and Monsieur <hi>Ittersum,</hi> Major Generals of the Horse; and Count <hi>Walraet</hi> of <hi>Nassau,</hi> Monsieur <hi>Zobel,</hi> Monsieur <hi>du Tel,</hi> and Count <hi>Noyelles,</hi> Major Generals of Foot. On the 26th, in the Evening, the King Arriv'd at <hi>Bred<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> where he was receiv'd with all possible demonstrations of Joy &amp; Respect: His Majesty continued there till <hi>Sunday</hi>-Morning; at which time He set forward for <hi>Vilvoord,</hi> in his way to <hi>Hall,</hi> in order to put himself at the Head of the Confederate-Army, that was Rendezvouzing there; which Place is about six <hi>English</hi> Miles from <hi>Brussels,</hi> in the Road to <hi>Mons.</hi> On <hi>Saturday</hi> the first of <hi>April,</hi> the King set forward for <hi>Vilvoord,</hi> and Arrived there late that Night. On <hi>Munday</hi> His Majesty view<g ref="char:EOLhyphen"/>ed, and on <hi>Tuesday</hi> Mustered His Army, and Encamped in the Neighbourhood of <hi>Brussels.</hi> On <hi>Wednesday</hi> the Army Marched to <hi>Hall,</hi> where they expect<g ref="char:EOLhyphen"/>ed the coming up of the Troops that had not joyned them, as well as part of the Artillery. On <hi>Thursday</hi> the 6th, about Three in the Afternoon, at which
+<pb n="12" facs="tcp:207108:7"/>time, all the Troops and Artillery were not come up; but the King viewed then 30000 Foot, and 15000 Horse: The Train of Artillery is composed of 71 Pieces of Cannon, and 14 Mortars. This Evening the <hi>Scotch</hi> Regiments of Infantry, and the <hi>Spanish</hi> Cavalry, Ar<g ref="char:EOLhyphen"/>riv'd in our Camp, to the Number of about 7000 Men. Great numbers of <hi>Switzers</hi> daily Desert, and come into our Camp from the <hi>French</hi> Army; they give an Account of the hard Treatment they have receiv'd in this Siege, from the <hi>French</hi> King; That they were al<g ref="char:EOLhyphen"/>ways forc'd on the most desperate At<g ref="char:EOLhyphen"/>tacks, and yet refused the Exercise of their Religion: They likewise tell us, that a most Malignant Flux raged much in the <hi>French</hi> Camp, great number of Waggons, with Sick and Wounded Men, going daily from the <hi>French</hi>-Camp to the adjacent Towns; and likewise, That the <hi>French</hi> had lost many of their best Officers and En<g ref="char:EOLhyphen"/>gineers in the Siege.</p>
+            </div>
+            <div n="6" type="letter">
+               <head>The Sixth Letter.</head>
+               <p>BY Deserters that lately come into the Town, from the <hi>French</hi>-Camp, we receiv'd an Account, That the Sieur <hi>Megrim,</hi> a Famous Engineer, having been Wounded in both his Arms, the <hi>French</hi> King had given Orders for his immediate carrying to <hi>Tournay,</hi> and given directions for some of his own Chyrurgeons to take care of him: That the King had forbid all the great Offi<g ref="char:EOLhyphen"/>cers of the Army to quit their Posts; not being without his Fears, that he should be Attack'd by the King of <hi>Great Britain:</hi> He likewise Command<g ref="char:EOLhyphen"/>ed the Duke <hi>de Chartres,</hi> not to go into the Trenches without his Order: That on the 18th some of our Deserters came into the <hi>French</hi>-Camp; who assured them, That we had abundance of all things in the City; and that every day some entred the Town, by the Marshes; and that we were daily in expectation of Succours: on which they ordered the Marshes to be more narrowly Guarded; and that they would make their utmost Efforts, for the more speedy carrying the Place: that the Duke <hi>de Maine,</hi> and the Grand Prior of <hi>France,</hi> were killed in the Trenches; and that the Marquis <hi>de Boufflers,</hi> and the Duke <hi>de Vendosme,</hi> were dangerously Wounded: That in the several Attacks they made on the Half-Moon of the Horn-Work, they had lost above 6000 Men. We can<g ref="char:EOLhyphen"/>not sufficiently express the Courage of the Besieged; the Parents could scarce keep their Children, the Wives their Husbands, and those of the most Weal<g ref="char:EOLhyphen"/>thy of the Inhabitants, from running into the greatest dangers, through Fire and Power. And as the Garrison
+<pb n="13" facs="tcp:207108:7"/>consisted of divers Nations, they strove with a kind of Emulation, every one to signalize himself for the Honour of his Country.</p>
+               <p>Last <hi>Saturday</hi> Night, the Enemy made a great Assault upon that part of the Counterscarp, that lies between the Horn-work, and the Two Half-Moons, but were beat back with very great loss; having besides 2000 pri<g ref="char:EOLhyphen"/>vate Sentinels and Subalteran Officers, Fifteen Captains Killed, out of Twen<g ref="char:EOLhyphen"/>ty that Commanded the Party; but the Town having so bravely repulsed the Enemy in so many Attacks, and particularly on <hi>Saturday</hi> the <hi>7th,</hi> at Night; the next day being <hi>Sunday,</hi> they made another Attack, more furious than the rest; and, after some hours Dispute, with a great Slaughter to the <hi>French,</hi> they carried the Fort; the Taking of which being of so great Importance, rendring their Approaches and Access to the Town very easie: That the next Morning, being the 9th, the Burghers, being animated by the Clergy, without the Governors or Garrisons knowledge or consent, caused a White-Flag to be hung out (to pre<g ref="char:EOLhyphen"/>vent the Effects of the Enemies intended Storm) and a Cessation of Arms being agreed on, and Hostages exchanged on both sides, the Articles of Capitulation were Signed about Two in the Af<g ref="char:EOLhyphen"/>ternoon; whereas before that, the <hi>French</hi> Army was ready to draw off, dispairing of Taking it by Force.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>AN Impartial Relation of all the Transactions between the Army of the Con<g ref="char:EOLhyphen"/>federates, and That of the <hi>French</hi> King, in their Last Summers Campaign in <hi>Flanders:</hi> With a more particular Respect to the Battle of <hi>Fleury.</hi> The Cha<g ref="char:EOLhyphen"/>racter of the Generals, and the Reasons of that most unhappy Miscarriage. With a List of the Great Officers Slain. Also, Observations on the late Grand-Consultations at the <hi>Hague;</hi> and the New Measures that are taken, for the Opening the ensuing Campaign, compared with Those of the Last. To which are added, Brief In<g ref="char:EOLhyphen"/>structions and Encouragement to those <hi>English</hi> Gentlemen, that are going to Serve in the approaching Campaign: Also, A short Description of the <hi>Spanish Nether<g ref="char:EOLhyphen"/>lands.</hi> By <hi>W. Sawle,</hi> Chaplain to One of Their Majesties Regiments in <hi>Flanders. London,</hi> Printed, and are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall. 1691.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
